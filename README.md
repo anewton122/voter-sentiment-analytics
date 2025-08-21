@@ -69,7 +69,7 @@ Although the Streamlit app cannot be run in this environment, the code is produc
 ```
 voter-sentiment-analytics/
 ├── data/
-│   └── survey_data.csv        # Synthetic survey responses with demographic attributes, support indicator and weights
+│   └── survey_data.csv        # Survey responses with demographic attributes, support indicator and weights
 ├── docs/
 │   ├── correlation_matrix.png # Correlation heatmap produced by analysis.py
 │   ├── support_by_age.png     # Bar chart of support by age group
@@ -84,13 +84,11 @@ voter-sentiment-analytics/
 
 ## Professional Context
 
-At **GPSP**, our team of four conducted partisan polling for political campaigns, including Senate races like the Reid Rasner campaign in Wyoming.  We were responsible for sending surveys into the field, weighting responses to match population demographics, building correlation matrices and tables, and delivering insights to campaign strategists.  After transitioning to **Advanced Insights**, we applied the same methodology to non‑partisan projects for lobbyists and municipal governments, such as gauging public sentiment on eminent domain in Iowa or assessing attitudes toward public transportation in San Antonio.
+At **GPSP**, our team of conducted partisan polling for political campaigns, including Senate races like the Reid Rasner campaign in Wyoming.  We were responsible for sending surveys into the field, weighting responses to match population demographics, building correlation matrices and tables, and delivering insights to campaign strategists.  After transitioning to **Advanced Insights**, we applied the same methodology to non‑partisan projects for lobbyists and municipal governments, such as gauging public sentiment on eminent domain in Iowa or assessing attitudes toward public transportation in San Antonio.
 
-This project mirrors that real‑world workflow.  It demonstrates how to:
+This project demonstrates how to:
 
 * Build a **reproducible data pipeline** that ingests raw survey data, applies demographic weights and performs cleaning.
 * Conduct **exploratory analysis** and compute **correlations** to identify which demographic factors move the needle.
 * Fit a **logistic regression model** to quantify the influence of each variable on candidate support.
 * Package results into an **interactive dashboard** so decision‑makers can slice the data by demographic groups and understand what drives sentiment.
-
-By publishing this project, I showcase my ability to combine **data science**, **software engineering**, and **DevOps** practices into a polished portfolio piece suitable for data analyst, data scientist, software engineer or DevOps roles.
