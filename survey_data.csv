@@ -1,0 +1,1001 @@
+respondent_id,age_group,gender,race,education,income,party_affiliation,candidate_support,weight
+1,30-44,Female,Hispanic,Some College/Associates,Low,Democrat,1,1.0119047619047619
+2,60+,Female,Black,High School or Less,High,Independent,1,1.0119047619047619
+3,18-29,Male,White,Some College/Associates,Low,Democrat,1,1.0294117647058825
+4,18-29,Male,White,Some College/Associates,Medium,Democrat,1,1.0294117647058825
+5,45-59,Male,Black,High School or Less,Low,Other,0,1.0294117647058825
+6,60+,Male,White,Bachelor,Low,Democrat,1,1.0294117647058825
+7,18-29,Female,White,Bachelor,Low,Republican,0,1.0119047619047619
+8,18-29,Female,Hispanic,Graduate,High,Republican,1,1.0119047619047619
+9,18-29,Male,White,High School or Less,Low,Democrat,0,1.0294117647058825
+10,30-44,Male,White,High School or Less,High,Democrat,0,1.0294117647058825
+11,45-59,Male,White,Bachelor,Medium,Independent,1,1.0294117647058825
+12,18-29,Male,White,Graduate,Medium,Democrat,1,1.0294117647058825
+13,30-44,Male,Black,Some College/Associates,High,Republican,0,1.0294117647058825
+14,45-59,Female,White,Bachelor,Medium,Republican,0,1.0119047619047619
+15,18-29,Male,White,Some College/Associates,Low,Republican,1,1.0294117647058825
+16,18-29,Male,Hispanic,High School or Less,Low,Democrat,1,1.0294117647058825
+17,60+,Female,Black,Graduate,High,Democrat,0,1.0119047619047619
+18,30-44,Female,Hispanic,High School or Less,Low,Democrat,1,1.0119047619047619
+19,60+,Female,White,Some College/Associates,Low,Democrat,1,1.0119047619047619
+20,30-44,Female,White,Some College/Associates,Medium,Republican,1,1.0119047619047619
+21,60+,Male,White,High School or Less,Low,Democrat,1,1.0294117647058825
+22,30-44,Male,White,Graduate,Low,Democrat,1,1.0294117647058825
+23,60+,Male,Black,Bachelor,Low,Independent,0,1.0294117647058825
+24,45-59,Female,White,High School or Less,High,Democrat,1,1.0119047619047619
+25,18-29,Female,Black,High School or Less,Medium,Democrat,1,1.0119047619047619
+26,18-29,Female,White,Graduate,Low,Democrat,1,1.0119047619047619
+27,60+,Female,White,Bachelor,High,Republican,0,1.0119047619047619
+28,18-29,Male,Hispanic,Graduate,Medium,Democrat,1,1.0294117647058825
+29,45-59,Female,Hispanic,Bachelor,Medium,Democrat,1,1.0119047619047619
+30,60+,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+31,30-44,Female,Black,High School or Less,Medium,Democrat,1,1.0119047619047619
+32,45-59,Female,Hispanic,Bachelor,Medium,Democrat,1,1.0119047619047619
+33,30-44,Male,Other,High School or Less,High,Republican,1,1.0294117647058825
+34,30-44,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+35,45-59,Male,Asian,Graduate,High,Republican,0,1.0294117647058825
+36,60+,Male,Other,Graduate,High,Democrat,1,1.0294117647058825
+37,60+,Male,White,Some College/Associates,High,Republican,0,1.0294117647058825
+38,18-29,Female,Other,High School or Less,Medium,Independent,0,1.0119047619047619
+39,45-59,Female,White,High School or Less,High,Independent,0,1.0119047619047619
+40,60+,Female,White,Bachelor,Medium,Independent,1,1.0119047619047619
+41,60+,Male,White,High School or Less,Medium,Democrat,1,1.0294117647058825
+42,30-44,Male,White,High School or Less,Low,Independent,0,1.0294117647058825
+43,18-29,Female,Hispanic,High School or Less,Medium,Democrat,1,1.0119047619047619
+44,30-44,Female,Black,Bachelor,High,Republican,0,1.0119047619047619
+45,45-59,Male,White,High School or Less,Low,Other,1,1.0294117647058825
+46,45-59,Male,White,High School or Less,Low,Republican,1,1.0294117647058825
+47,45-59,Male,Asian,Bachelor,Medium,Republican,0,1.0294117647058825
+48,18-29,Male,Hispanic,High School or Less,Low,Democrat,1,1.0294117647058825
+49,60+,Female,White,High School or Less,Medium,Republican,0,1.0119047619047619
+50,30-44,Male,Black,Some College/Associates,Low,Republican,0,1.0294117647058825
+51,30-44,Female,Black,High School or Less,Low,Republican,0,1.0119047619047619
+52,45-59,Female,White,High School or Less,Medium,Republican,0,1.0119047619047619
+53,60+,Male,Other,Graduate,Low,Democrat,1,1.0294117647058825
+54,18-29,Male,Black,High School or Less,Low,Independent,1,1.0294117647058825
+55,60+,Male,White,Bachelor,Medium,Independent,1,1.0294117647058825
+56,60+,Male,White,Bachelor,High,Other,0,1.0294117647058825
+57,30-44,Female,White,Graduate,High,Republican,1,1.0119047619047619
+58,45-59,Male,Hispanic,Some College/Associates,High,Democrat,0,1.0294117647058825
+59,30-44,Male,Hispanic,High School or Less,Low,Other,0,1.0294117647058825
+60,45-59,Female,White,High School or Less,Low,Republican,1,1.0119047619047619
+61,45-59,Female,White,Some College/Associates,Low,Republican,0,1.0119047619047619
+62,60+,Male,White,High School or Less,Medium,Republican,0,1.0294117647058825
+63,18-29,Female,White,Bachelor,Medium,Democrat,1,1.0119047619047619
+64,60+,Male,White,Bachelor,High,Other,1,1.0294117647058825
+65,30-44,Male,Hispanic,Some College/Associates,Low,Other,1,1.0294117647058825
+66,30-44,Male,White,High School or Less,Low,Democrat,1,1.0294117647058825
+67,45-59,Female,Other,High School or Less,Low,Independent,1,1.0119047619047619
+68,60+,Male,Other,High School or Less,High,Republican,1,1.0294117647058825
+69,18-29,Female,Other,Some College/Associates,Medium,Republican,0,1.0119047619047619
+70,45-59,Female,Hispanic,High School or Less,Low,Other,0,1.0119047619047619
+71,30-44,Female,White,High School or Less,Medium,Republican,0,1.0119047619047619
+72,18-29,Female,Other,Bachelor,Medium,Democrat,1,1.0119047619047619
+73,45-59,Male,Asian,Bachelor,High,Independent,0,1.0294117647058825
+74,30-44,Female,Hispanic,High School or Less,Low,Republican,1,1.0119047619047619
+75,60+,Male,White,High School or Less,High,Independent,1,1.0294117647058825
+76,30-44,Male,White,High School or Less,High,Independent,1,1.0294117647058825
+77,60+,Female,Hispanic,Graduate,High,Democrat,1,1.0119047619047619
+78,18-29,Female,Black,High School or Less,Medium,Republican,0,1.0119047619047619
+79,18-29,Female,White,Bachelor,Medium,Independent,1,1.0119047619047619
+80,45-59,Female,White,High School or Less,Low,Independent,0,1.0119047619047619
+81,45-59,Male,White,High School or Less,Low,Republican,0,1.0294117647058825
+82,30-44,Female,White,Some College/Associates,Medium,Republican,0,1.0119047619047619
+83,60+,Female,White,Graduate,Medium,Democrat,1,1.0119047619047619
+84,60+,Female,White,Some College/Associates,Low,Democrat,1,1.0119047619047619
+85,18-29,Male,White,Some College/Associates,Low,Democrat,0,1.0294117647058825
+86,30-44,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+87,18-29,Male,White,Some College/Associates,Low,Republican,0,1.0294117647058825
+88,45-59,Male,Hispanic,Some College/Associates,Low,Independent,0,1.0294117647058825
+89,18-29,Male,Hispanic,Bachelor,Low,Democrat,1,1.0294117647058825
+90,30-44,Female,White,Some College/Associates,Medium,Democrat,1,1.0119047619047619
+91,45-59,Female,White,Some College/Associates,Low,Republican,0,1.0119047619047619
+92,18-29,Male,White,High School or Less,Low,Democrat,1,1.0294117647058825
+93,18-29,Female,White,Bachelor,Medium,Republican,0,1.0119047619047619
+94,30-44,Female,Hispanic,Some College/Associates,Low,Democrat,1,1.0119047619047619
+95,45-59,Female,White,Graduate,Medium,Democrat,1,1.0119047619047619
+96,18-29,Male,White,High School or Less,Low,Democrat,0,1.0294117647058825
+97,18-29,Female,White,Graduate,Low,Republican,1,1.0119047619047619
+98,60+,Female,White,High School or Less,Medium,Other,1,1.0119047619047619
+99,45-59,Male,Hispanic,High School or Less,Low,Republican,0,1.0294117647058825
+100,18-29,Male,Black,High School or Less,Medium,Democrat,1,1.0294117647058825
+101,30-44,Male,White,High School or Less,Low,Other,0,1.0294117647058825
+102,60+,Male,Black,Bachelor,Medium,Republican,0,1.0294117647058825
+103,30-44,Female,Hispanic,Graduate,Low,Independent,0,1.0119047619047619
+104,18-29,Male,Hispanic,Some College/Associates,High,Democrat,1,1.0294117647058825
+105,18-29,Male,White,Bachelor,Medium,Republican,0,1.0294117647058825
+106,60+,Male,Hispanic,Some College/Associates,Low,Republican,0,1.0294117647058825
+107,45-59,Female,White,Graduate,Low,Republican,1,1.0119047619047619
+108,45-59,Male,Asian,Some College/Associates,Low,Democrat,0,1.0294117647058825
+109,45-59,Female,Hispanic,Bachelor,Low,Democrat,1,1.0119047619047619
+110,45-59,Male,White,Bachelor,High,Democrat,0,1.0294117647058825
+111,18-29,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+112,45-59,Female,Black,Bachelor,Medium,Democrat,1,1.0119047619047619
+113,18-29,Female,White,Some College/Associates,Medium,Other,1,1.0119047619047619
+114,45-59,Female,Black,High School or Less,High,Other,1,1.0119047619047619
+115,45-59,Female,Black,High School or Less,Medium,Republican,0,1.0119047619047619
+116,45-59,Female,Asian,Some College/Associates,Low,Other,0,1.0119047619047619
+117,18-29,Female,Hispanic,Some College/Associates,Medium,Republican,0,1.0119047619047619
+118,30-44,Female,White,High School or Less,Low,Republican,1,1.0119047619047619
+119,30-44,Male,Hispanic,Some College/Associates,Low,Republican,0,1.0294117647058825
+120,18-29,Female,White,Graduate,Low,Republican,1,1.0119047619047619
+121,18-29,Female,White,Graduate,Low,Republican,0,1.0119047619047619
+122,60+,Female,White,High School or Less,Medium,Democrat,0,1.0119047619047619
+123,18-29,Male,White,Some College/Associates,Medium,Democrat,0,1.0294117647058825
+124,30-44,Female,White,Some College/Associates,Medium,Democrat,1,1.0119047619047619
+125,60+,Female,White,High School or Less,Medium,Republican,0,1.0119047619047619
+126,18-29,Female,Black,High School or Less,Low,Democrat,1,1.0119047619047619
+127,18-29,Male,Hispanic,High School or Less,Medium,Democrat,1,1.0294117647058825
+128,18-29,Female,Hispanic,Bachelor,Low,Republican,0,1.0119047619047619
+129,30-44,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+130,45-59,Male,Hispanic,Bachelor,Low,Democrat,1,1.0294117647058825
+131,45-59,Male,Black,Some College/Associates,Medium,Republican,0,1.0294117647058825
+132,60+,Female,White,Graduate,Medium,Independent,1,1.0119047619047619
+133,30-44,Male,White,Some College/Associates,Medium,Democrat,1,1.0294117647058825
+134,60+,Other,White,High School or Less,Low,Democrat,0,0.0
+135,18-29,Female,White,Some College/Associates,Medium,Independent,1,1.0119047619047619
+136,18-29,Male,Hispanic,Graduate,Medium,Republican,1,1.0294117647058825
+137,18-29,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+138,45-59,Male,Black,High School or Less,Low,Democrat,1,1.0294117647058825
+139,45-59,Male,White,Some College/Associates,Medium,Other,1,1.0294117647058825
+140,18-29,Male,White,Some College/Associates,Low,Republican,0,1.0294117647058825
+141,30-44,Female,White,High School or Less,Medium,Republican,1,1.0119047619047619
+142,30-44,Male,Hispanic,Bachelor,Medium,Democrat,1,1.0294117647058825
+143,30-44,Male,Asian,High School or Less,High,Republican,0,1.0294117647058825
+144,30-44,Female,Hispanic,Bachelor,Medium,Republican,1,1.0119047619047619
+145,18-29,Male,White,Graduate,High,Democrat,1,1.0294117647058825
+146,60+,Male,White,Graduate,Low,Republican,0,1.0294117647058825
+147,60+,Female,Asian,Some College/Associates,High,Independent,1,1.0119047619047619
+148,60+,Male,White,High School or Less,Low,Democrat,0,1.0294117647058825
+149,30-44,Female,White,High School or Less,Medium,Independent,1,1.0119047619047619
+150,45-59,Female,Black,High School or Less,Low,Independent,1,1.0119047619047619
+151,60+,Female,Asian,Bachelor,High,Republican,1,1.0119047619047619
+152,30-44,Male,Black,Graduate,High,Independent,1,1.0294117647058825
+153,30-44,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+154,18-29,Male,White,Graduate,Low,Republican,1,1.0294117647058825
+155,18-29,Female,Hispanic,High School or Less,Low,Independent,0,1.0119047619047619
+156,30-44,Female,White,Graduate,Low,Other,0,1.0119047619047619
+157,45-59,Female,White,High School or Less,Low,Democrat,0,1.0119047619047619
+158,30-44,Male,Other,Graduate,High,Other,1,1.0294117647058825
+159,30-44,Female,Black,High School or Less,High,Democrat,1,1.0119047619047619
+160,30-44,Female,White,High School or Less,High,Democrat,1,1.0119047619047619
+161,60+,Female,Hispanic,Bachelor,Medium,Republican,0,1.0119047619047619
+162,30-44,Male,White,Bachelor,Medium,Democrat,1,1.0294117647058825
+163,45-59,Male,Hispanic,Some College/Associates,Medium,Republican,1,1.0294117647058825
+164,30-44,Female,White,High School or Less,High,Independent,0,1.0119047619047619
+165,60+,Female,Black,Bachelor,Medium,Republican,0,1.0119047619047619
+166,45-59,Male,Hispanic,Graduate,Low,Independent,1,1.0294117647058825
+167,30-44,Female,White,Bachelor,High,Republican,0,1.0119047619047619
+168,30-44,Female,Other,Some College/Associates,Low,Republican,0,1.0119047619047619
+169,45-59,Male,Hispanic,Some College/Associates,High,Democrat,1,1.0294117647058825
+170,60+,Male,Asian,Bachelor,Low,Democrat,0,1.0294117647058825
+171,18-29,Female,White,Some College/Associates,Low,Independent,0,1.0119047619047619
+172,60+,Female,White,Bachelor,Low,Democrat,1,1.0119047619047619
+173,30-44,Female,Black,Some College/Associates,Low,Other,1,1.0119047619047619
+174,30-44,Male,Hispanic,Bachelor,Low,Democrat,1,1.0294117647058825
+175,45-59,Male,Asian,High School or Less,Low,Other,1,1.0294117647058825
+176,45-59,Male,White,Graduate,Low,Independent,0,1.0294117647058825
+177,18-29,Male,Black,High School or Less,High,Republican,1,1.0294117647058825
+178,18-29,Female,Hispanic,Bachelor,High,Independent,0,1.0119047619047619
+179,18-29,Male,Asian,Some College/Associates,Medium,Republican,0,1.0294117647058825
+180,18-29,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+181,30-44,Female,White,Some College/Associates,Low,Democrat,1,1.0119047619047619
+182,30-44,Female,White,Bachelor,High,Independent,1,1.0119047619047619
+183,30-44,Male,White,Graduate,Low,Republican,0,1.0294117647058825
+184,45-59,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+185,18-29,Male,White,High School or Less,Medium,Republican,1,1.0294117647058825
+186,18-29,Male,White,Some College/Associates,Medium,Democrat,0,1.0294117647058825
+187,18-29,Female,Black,Graduate,Medium,Independent,1,1.0119047619047619
+188,60+,Male,Hispanic,Some College/Associates,High,Republican,0,1.0294117647058825
+189,30-44,Female,White,High School or Less,Low,Democrat,0,1.0119047619047619
+190,18-29,Female,White,High School or Less,Medium,Republican,0,1.0119047619047619
+191,45-59,Female,White,Graduate,High,Republican,0,1.0119047619047619
+192,45-59,Male,White,High School or Less,Medium,Independent,1,1.0294117647058825
+193,45-59,Male,White,High School or Less,High,Democrat,0,1.0294117647058825
+194,45-59,Male,Black,Some College/Associates,High,Other,1,1.0294117647058825
+195,30-44,Female,Asian,High School or Less,Medium,Republican,1,1.0119047619047619
+196,18-29,Female,Hispanic,High School or Less,Low,Other,1,1.0119047619047619
+197,60+,Female,White,Graduate,Low,Republican,0,1.0119047619047619
+198,45-59,Male,White,Graduate,Low,Republican,0,1.0294117647058825
+199,45-59,Male,Other,Some College/Associates,Low,Democrat,1,1.0294117647058825
+200,30-44,Male,Hispanic,Some College/Associates,Low,Republican,1,1.0294117647058825
+201,18-29,Male,White,Bachelor,Medium,Republican,1,1.0294117647058825
+202,60+,Female,Hispanic,High School or Less,Low,Democrat,1,1.0119047619047619
+203,30-44,Female,White,High School or Less,Medium,Other,1,1.0119047619047619
+204,30-44,Male,White,Graduate,High,Democrat,0,1.0294117647058825
+205,45-59,Female,White,Some College/Associates,Medium,Republican,0,1.0119047619047619
+206,18-29,Male,Black,High School or Less,Medium,Other,1,1.0294117647058825
+207,45-59,Male,Hispanic,High School or Less,Medium,Independent,0,1.0294117647058825
+208,45-59,Female,Black,Graduate,Medium,Democrat,0,1.0119047619047619
+209,45-59,Female,White,Bachelor,Low,Republican,0,1.0119047619047619
+210,45-59,Other,White,Graduate,Low,Independent,1,0.0
+211,45-59,Female,Hispanic,Some College/Associates,Low,Republican,1,1.0119047619047619
+212,45-59,Female,White,Bachelor,Low,Republican,0,1.0119047619047619
+213,30-44,Male,White,Bachelor,Low,Republican,0,1.0294117647058825
+214,30-44,Male,White,Some College/Associates,Medium,Republican,0,1.0294117647058825
+215,30-44,Female,White,Some College/Associates,Low,Democrat,1,1.0119047619047619
+216,30-44,Female,White,Some College/Associates,Medium,Independent,0,1.0119047619047619
+217,60+,Male,White,High School or Less,Medium,Independent,0,1.0294117647058825
+218,60+,Male,Asian,High School or Less,Low,Republican,0,1.0294117647058825
+219,30-44,Male,Hispanic,Some College/Associates,Low,Republican,1,1.0294117647058825
+220,30-44,Male,White,High School or Less,Medium,Democrat,1,1.0294117647058825
+221,45-59,Male,White,High School or Less,High,Republican,1,1.0294117647058825
+222,45-59,Male,Black,Graduate,Medium,Independent,0,1.0294117647058825
+223,18-29,Male,Black,Some College/Associates,High,Other,1,1.0294117647058825
+224,18-29,Female,White,Bachelor,Low,Republican,0,1.0119047619047619
+225,45-59,Male,White,High School or Less,Medium,Independent,0,1.0294117647058825
+226,18-29,Male,Black,Some College/Associates,Medium,Democrat,1,1.0294117647058825
+227,45-59,Female,Other,High School or Less,Medium,Republican,0,1.0119047619047619
+228,45-59,Female,Other,High School or Less,Low,Independent,0,1.0119047619047619
+229,30-44,Male,White,Graduate,Low,Democrat,1,1.0294117647058825
+230,30-44,Male,White,High School or Less,High,Democrat,1,1.0294117647058825
+231,60+,Female,White,High School or Less,Low,Republican,1,1.0119047619047619
+232,45-59,Female,Hispanic,Some College/Associates,Low,Republican,1,1.0119047619047619
+233,18-29,Female,White,Some College/Associates,Low,Republican,1,1.0119047619047619
+234,30-44,Female,Hispanic,Graduate,Low,Republican,0,1.0119047619047619
+235,60+,Female,White,Bachelor,Medium,Republican,0,1.0119047619047619
+236,45-59,Male,Hispanic,Bachelor,Medium,Democrat,1,1.0294117647058825
+237,30-44,Male,White,Graduate,Medium,Democrat,1,1.0294117647058825
+238,30-44,Female,White,Graduate,Medium,Other,0,1.0119047619047619
+239,18-29,Female,White,Bachelor,Low,Independent,0,1.0119047619047619
+240,60+,Female,White,High School or Less,Low,Democrat,0,1.0119047619047619
+241,30-44,Female,Black,Bachelor,Low,Independent,0,1.0119047619047619
+242,30-44,Female,Hispanic,High School or Less,Medium,Republican,0,1.0119047619047619
+243,30-44,Male,White,High School or Less,High,Republican,1,1.0294117647058825
+244,30-44,Male,White,Some College/Associates,Low,Republican,0,1.0294117647058825
+245,45-59,Female,White,High School or Less,Medium,Republican,0,1.0119047619047619
+246,60+,Male,Black,Graduate,Low,Democrat,1,1.0294117647058825
+247,30-44,Male,Black,High School or Less,Medium,Other,0,1.0294117647058825
+248,45-59,Male,Black,Some College/Associates,Low,Democrat,0,1.0294117647058825
+249,30-44,Male,White,Some College/Associates,High,Independent,1,1.0294117647058825
+250,18-29,Male,White,High School or Less,Low,Independent,1,1.0294117647058825
+251,30-44,Male,White,High School or Less,High,Independent,1,1.0294117647058825
+252,30-44,Male,White,Some College/Associates,High,Democrat,1,1.0294117647058825
+253,18-29,Male,Hispanic,Some College/Associates,Low,Republican,0,1.0294117647058825
+254,45-59,Female,Asian,Bachelor,Low,Republican,0,1.0119047619047619
+255,30-44,Female,White,Graduate,Medium,Republican,0,1.0119047619047619
+256,60+,Female,Black,High School or Less,Medium,Democrat,0,1.0119047619047619
+257,30-44,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+258,18-29,Female,Hispanic,High School or Less,Low,Democrat,1,1.0119047619047619
+259,45-59,Male,White,High School or Less,Medium,Independent,0,1.0294117647058825
+260,18-29,Male,Other,High School or Less,Medium,Republican,0,1.0294117647058825
+261,18-29,Male,Black,Bachelor,Medium,Republican,0,1.0294117647058825
+262,60+,Female,White,Graduate,Medium,Republican,1,1.0119047619047619
+263,60+,Female,White,High School or Less,High,Democrat,1,1.0119047619047619
+264,30-44,Male,Black,Graduate,Low,Democrat,1,1.0294117647058825
+265,60+,Female,White,Bachelor,High,Independent,1,1.0119047619047619
+266,30-44,Female,White,Bachelor,Medium,Independent,0,1.0119047619047619
+267,18-29,Female,Other,Graduate,Low,Democrat,1,1.0119047619047619
+268,45-59,Female,White,Some College/Associates,High,Independent,0,1.0119047619047619
+269,45-59,Female,White,Some College/Associates,Medium,Independent,0,1.0119047619047619
+270,45-59,Male,White,High School or Less,Low,Independent,1,1.0294117647058825
+271,18-29,Male,Hispanic,High School or Less,Medium,Independent,0,1.0294117647058825
+272,18-29,Male,Hispanic,Some College/Associates,Low,Independent,1,1.0294117647058825
+273,45-59,Male,Asian,High School or Less,Low,Democrat,1,1.0294117647058825
+274,60+,Other,White,Some College/Associates,Medium,Independent,1,0.0
+275,30-44,Male,Black,High School or Less,Medium,Republican,1,1.0294117647058825
+276,18-29,Female,White,Some College/Associates,Low,Republican,0,1.0119047619047619
+277,45-59,Female,Black,Bachelor,Low,Independent,1,1.0119047619047619
+278,18-29,Male,White,Bachelor,Medium,Independent,1,1.0294117647058825
+279,30-44,Male,White,Some College/Associates,Low,Democrat,1,1.0294117647058825
+280,45-59,Other,Asian,Some College/Associates,Low,Republican,1,0.0
+281,18-29,Male,Hispanic,High School or Less,Medium,Republican,0,1.0294117647058825
+282,30-44,Male,White,High School or Less,High,Democrat,1,1.0294117647058825
+283,30-44,Female,White,Some College/Associates,High,Independent,1,1.0119047619047619
+284,60+,Male,White,High School or Less,Low,Independent,0,1.0294117647058825
+285,30-44,Female,Hispanic,High School or Less,Medium,Democrat,1,1.0119047619047619
+286,45-59,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+287,60+,Male,White,Bachelor,Low,Independent,0,1.0294117647058825
+288,30-44,Male,White,Graduate,Low,Republican,0,1.0294117647058825
+289,30-44,Female,White,Bachelor,High,Republican,1,1.0119047619047619
+290,18-29,Male,White,Bachelor,High,Democrat,1,1.0294117647058825
+291,18-29,Female,White,Graduate,Medium,Democrat,1,1.0119047619047619
+292,18-29,Male,White,Graduate,Medium,Republican,0,1.0294117647058825
+293,60+,Female,White,Bachelor,Medium,Democrat,1,1.0119047619047619
+294,30-44,Male,Asian,Bachelor,Medium,Republican,0,1.0294117647058825
+295,45-59,Female,White,Some College/Associates,High,Republican,0,1.0119047619047619
+296,45-59,Male,White,High School or Less,Low,Independent,1,1.0294117647058825
+297,18-29,Female,Hispanic,Graduate,Low,Republican,1,1.0119047619047619
+298,45-59,Male,White,Some College/Associates,High,Republican,0,1.0294117647058825
+299,18-29,Female,Hispanic,High School or Less,Medium,Other,1,1.0119047619047619
+300,30-44,Male,Hispanic,Some College/Associates,Medium,Independent,1,1.0294117647058825
+301,60+,Female,White,Bachelor,Medium,Democrat,0,1.0119047619047619
+302,60+,Male,Other,High School or Less,Low,Democrat,0,1.0294117647058825
+303,45-59,Male,White,Some College/Associates,Low,Independent,1,1.0294117647058825
+304,30-44,Female,White,Graduate,Medium,Republican,0,1.0119047619047619
+305,60+,Male,White,High School or Less,Medium,Republican,0,1.0294117647058825
+306,60+,Male,Hispanic,High School or Less,High,Independent,1,1.0294117647058825
+307,45-59,Male,White,Bachelor,Medium,Republican,0,1.0294117647058825
+308,60+,Male,White,Bachelor,High,Democrat,1,1.0294117647058825
+309,18-29,Male,White,Bachelor,Medium,Republican,0,1.0294117647058825
+310,60+,Male,Other,Some College/Associates,Low,Republican,0,1.0294117647058825
+311,45-59,Male,White,Graduate,Low,Independent,0,1.0294117647058825
+312,45-59,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+313,45-59,Female,Hispanic,Bachelor,Medium,Republican,0,1.0119047619047619
+314,60+,Female,White,High School or Less,Low,Republican,1,1.0119047619047619
+315,30-44,Male,Other,High School or Less,Low,Democrat,1,1.0294117647058825
+316,60+,Male,Hispanic,High School or Less,High,Independent,1,1.0294117647058825
+317,18-29,Female,Black,High School or Less,High,Democrat,0,1.0119047619047619
+318,18-29,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+319,30-44,Female,White,High School or Less,Medium,Democrat,0,1.0119047619047619
+320,60+,Female,White,Graduate,Low,Democrat,1,1.0119047619047619
+321,45-59,Male,White,Graduate,High,Republican,0,1.0294117647058825
+322,60+,Female,White,High School or Less,High,Republican,1,1.0119047619047619
+323,60+,Female,White,Some College/Associates,Low,Republican,1,1.0119047619047619
+324,45-59,Female,White,Some College/Associates,Medium,Republican,1,1.0119047619047619
+325,18-29,Female,White,High School or Less,Medium,Republican,1,1.0119047619047619
+326,45-59,Female,White,Some College/Associates,Low,Democrat,1,1.0119047619047619
+327,30-44,Male,White,High School or Less,High,Democrat,1,1.0294117647058825
+328,18-29,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+329,18-29,Male,White,High School or Less,High,Republican,0,1.0294117647058825
+330,30-44,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+331,30-44,Female,White,Bachelor,High,Democrat,1,1.0119047619047619
+332,30-44,Male,White,Graduate,Medium,Republican,0,1.0294117647058825
+333,60+,Female,Hispanic,High School or Less,Medium,Democrat,1,1.0119047619047619
+334,18-29,Female,Black,High School or Less,Low,Republican,0,1.0119047619047619
+335,18-29,Male,Hispanic,High School or Less,Low,Republican,1,1.0294117647058825
+336,45-59,Female,White,Some College/Associates,Low,Republican,1,1.0119047619047619
+337,45-59,Female,Black,High School or Less,High,Democrat,1,1.0119047619047619
+338,18-29,Male,White,High School or Less,Medium,Republican,0,1.0294117647058825
+339,18-29,Female,White,Bachelor,Medium,Independent,0,1.0119047619047619
+340,30-44,Female,White,High School or Less,Medium,Republican,1,1.0119047619047619
+341,60+,Female,Asian,Some College/Associates,Low,Republican,0,1.0119047619047619
+342,45-59,Female,Black,High School or Less,Low,Republican,0,1.0119047619047619
+343,60+,Male,White,High School or Less,Medium,Republican,0,1.0294117647058825
+344,18-29,Male,White,Bachelor,Medium,Republican,0,1.0294117647058825
+345,60+,Male,Black,High School or Less,Medium,Democrat,1,1.0294117647058825
+346,60+,Male,White,High School or Less,Low,Democrat,1,1.0294117647058825
+347,45-59,Male,White,Graduate,Low,Other,0,1.0294117647058825
+348,60+,Female,Hispanic,Graduate,Low,Other,1,1.0119047619047619
+349,30-44,Male,White,High School or Less,Medium,Republican,1,1.0294117647058825
+350,60+,Male,White,High School or Less,Low,Democrat,1,1.0294117647058825
+351,30-44,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+352,45-59,Male,White,Graduate,High,Republican,0,1.0294117647058825
+353,45-59,Male,White,High School or Less,Medium,Republican,0,1.0294117647058825
+354,60+,Female,Black,Some College/Associates,High,Democrat,0,1.0119047619047619
+355,18-29,Female,White,Graduate,High,Democrat,1,1.0119047619047619
+356,60+,Male,Hispanic,Some College/Associates,Low,Democrat,1,1.0294117647058825
+357,45-59,Male,White,Some College/Associates,Medium,Independent,1,1.0294117647058825
+358,30-44,Female,Hispanic,Some College/Associates,High,Democrat,1,1.0119047619047619
+359,60+,Male,Hispanic,Graduate,Low,Independent,0,1.0294117647058825
+360,30-44,Female,Asian,High School or Less,Medium,Republican,1,1.0119047619047619
+361,45-59,Male,White,High School or Less,High,Democrat,1,1.0294117647058825
+362,60+,Male,Other,Bachelor,High,Democrat,1,1.0294117647058825
+363,45-59,Female,Hispanic,High School or Less,Medium,Independent,0,1.0119047619047619
+364,45-59,Female,Black,High School or Less,Medium,Democrat,1,1.0119047619047619
+365,30-44,Male,White,High School or Less,High,Other,0,1.0294117647058825
+366,60+,Female,White,High School or Less,Medium,Independent,1,1.0119047619047619
+367,18-29,Male,White,High School or Less,Low,Democrat,0,1.0294117647058825
+368,60+,Male,Hispanic,High School or Less,Medium,Democrat,1,1.0294117647058825
+369,60+,Female,White,Some College/Associates,Low,Independent,0,1.0119047619047619
+370,30-44,Female,Black,High School or Less,Medium,Democrat,1,1.0119047619047619
+371,60+,Female,White,Some College/Associates,Low,Independent,0,1.0119047619047619
+372,30-44,Male,White,Some College/Associates,Low,Independent,0,1.0294117647058825
+373,18-29,Female,White,High School or Less,Medium,Democrat,0,1.0119047619047619
+374,18-29,Male,Hispanic,High School or Less,Low,Republican,0,1.0294117647058825
+375,60+,Male,Hispanic,Graduate,Low,Other,0,1.0294117647058825
+376,60+,Male,Black,Some College/Associates,Low,Republican,1,1.0294117647058825
+377,18-29,Male,Black,Bachelor,High,Independent,0,1.0294117647058825
+378,45-59,Male,White,Bachelor,Medium,Democrat,1,1.0294117647058825
+379,60+,Female,White,Some College/Associates,Low,Republican,0,1.0119047619047619
+380,18-29,Female,White,Bachelor,High,Democrat,1,1.0119047619047619
+381,30-44,Female,White,Bachelor,Medium,Democrat,1,1.0119047619047619
+382,45-59,Female,White,Some College/Associates,Low,Independent,1,1.0119047619047619
+383,60+,Male,White,High School or Less,Low,Republican,0,1.0294117647058825
+384,60+,Male,White,High School or Less,Low,Democrat,1,1.0294117647058825
+385,30-44,Male,White,Some College/Associates,Low,Republican,1,1.0294117647058825
+386,30-44,Female,White,Bachelor,Medium,Republican,1,1.0119047619047619
+387,18-29,Male,Hispanic,Bachelor,Low,Democrat,1,1.0294117647058825
+388,30-44,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+389,45-59,Female,Hispanic,High School or Less,High,Independent,0,1.0119047619047619
+390,30-44,Male,White,High School or Less,Low,Democrat,1,1.0294117647058825
+391,45-59,Male,White,Graduate,High,Independent,1,1.0294117647058825
+392,30-44,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+393,45-59,Female,White,High School or Less,High,Republican,0,1.0119047619047619
+394,45-59,Male,White,Graduate,Low,Republican,1,1.0294117647058825
+395,45-59,Male,White,High School or Less,Medium,Republican,0,1.0294117647058825
+396,60+,Female,White,Some College/Associates,Medium,Democrat,1,1.0119047619047619
+397,60+,Male,White,Some College/Associates,Low,Democrat,1,1.0294117647058825
+398,18-29,Male,Hispanic,Graduate,Medium,Independent,1,1.0294117647058825
+399,60+,Male,Asian,Graduate,Medium,Other,1,1.0294117647058825
+400,30-44,Male,White,High School or Less,Medium,Other,0,1.0294117647058825
+401,45-59,Female,Asian,Graduate,Medium,Other,0,1.0119047619047619
+402,18-29,Male,Black,High School or Less,Medium,Republican,0,1.0294117647058825
+403,45-59,Female,White,High School or Less,Low,Republican,1,1.0119047619047619
+404,18-29,Female,White,High School or Less,High,Independent,1,1.0119047619047619
+405,30-44,Male,White,Bachelor,Low,Democrat,1,1.0294117647058825
+406,60+,Other,White,Bachelor,Low,Republican,1,0.0
+407,60+,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+408,30-44,Female,White,High School or Less,High,Democrat,1,1.0119047619047619
+409,18-29,Male,White,High School or Less,High,Democrat,0,1.0294117647058825
+410,45-59,Male,White,Some College/Associates,Medium,Democrat,1,1.0294117647058825
+411,60+,Female,Hispanic,Some College/Associates,Medium,Republican,0,1.0119047619047619
+412,18-29,Female,White,High School or Less,High,Democrat,1,1.0119047619047619
+413,18-29,Female,White,Some College/Associates,High,Independent,1,1.0119047619047619
+414,45-59,Female,Black,High School or Less,High,Republican,0,1.0119047619047619
+415,30-44,Male,White,Bachelor,Low,Republican,0,1.0294117647058825
+416,18-29,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+417,45-59,Female,White,Bachelor,Medium,Independent,1,1.0119047619047619
+418,30-44,Male,Black,Bachelor,Low,Republican,1,1.0294117647058825
+419,60+,Other,Hispanic,High School or Less,Medium,Republican,0,0.0
+420,30-44,Female,White,Bachelor,Medium,Other,1,1.0119047619047619
+421,30-44,Female,White,Bachelor,Medium,Democrat,1,1.0119047619047619
+422,30-44,Male,Asian,Bachelor,Medium,Independent,1,1.0294117647058825
+423,60+,Female,Black,Graduate,Low,Independent,1,1.0119047619047619
+424,30-44,Male,Other,Graduate,Medium,Independent,0,1.0294117647058825
+425,60+,Female,White,High School or Less,Medium,Independent,0,1.0119047619047619
+426,18-29,Female,White,Bachelor,High,Republican,0,1.0119047619047619
+427,45-59,Female,White,Graduate,Low,Republican,1,1.0119047619047619
+428,60+,Male,Hispanic,Some College/Associates,Low,Democrat,0,1.0294117647058825
+429,18-29,Male,White,Graduate,Medium,Independent,1,1.0294117647058825
+430,45-59,Female,Hispanic,Graduate,Low,Republican,0,1.0119047619047619
+431,30-44,Male,White,High School or Less,Medium,Democrat,0,1.0294117647058825
+432,30-44,Male,Hispanic,High School or Less,Low,Republican,0,1.0294117647058825
+433,18-29,Male,Asian,Some College/Associates,Medium,Republican,0,1.0294117647058825
+434,30-44,Female,White,High School or Less,Low,Republican,1,1.0119047619047619
+435,18-29,Female,White,Graduate,Low,Republican,1,1.0119047619047619
+436,45-59,Male,White,High School or Less,Low,Democrat,1,1.0294117647058825
+437,30-44,Male,Black,Graduate,Medium,Democrat,1,1.0294117647058825
+438,60+,Male,White,Some College/Associates,Medium,Republican,0,1.0294117647058825
+439,18-29,Female,White,Bachelor,Medium,Republican,0,1.0119047619047619
+440,30-44,Female,Hispanic,Graduate,Low,Democrat,0,1.0119047619047619
+441,45-59,Female,White,Some College/Associates,Medium,Republican,0,1.0119047619047619
+442,18-29,Female,White,Some College/Associates,High,Republican,1,1.0119047619047619
+443,18-29,Female,Other,High School or Less,Low,Republican,0,1.0119047619047619
+444,45-59,Female,White,High School or Less,Low,Independent,1,1.0119047619047619
+445,45-59,Female,Black,High School or Less,Medium,Democrat,1,1.0119047619047619
+446,60+,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+447,18-29,Male,Hispanic,Some College/Associates,Medium,Democrat,0,1.0294117647058825
+448,60+,Female,Hispanic,Graduate,Medium,Democrat,1,1.0119047619047619
+449,45-59,Female,White,High School or Less,Low,Other,0,1.0119047619047619
+450,30-44,Male,White,Graduate,Medium,Independent,0,1.0294117647058825
+451,45-59,Male,Black,Some College/Associates,Low,Republican,1,1.0294117647058825
+452,18-29,Female,White,Some College/Associates,Low,Democrat,1,1.0119047619047619
+453,18-29,Female,Asian,High School or Less,Medium,Republican,1,1.0119047619047619
+454,30-44,Male,White,High School or Less,Low,Republican,1,1.0294117647058825
+455,60+,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+456,30-44,Male,White,Bachelor,Medium,Democrat,0,1.0294117647058825
+457,60+,Male,White,Some College/Associates,High,Independent,0,1.0294117647058825
+458,30-44,Female,White,High School or Less,High,Republican,1,1.0119047619047619
+459,60+,Female,White,Some College/Associates,Low,Republican,0,1.0119047619047619
+460,45-59,Male,White,High School or Less,Low,Independent,1,1.0294117647058825
+461,30-44,Male,White,High School or Less,Low,Independent,0,1.0294117647058825
+462,30-44,Male,White,Some College/Associates,Medium,Democrat,1,1.0294117647058825
+463,30-44,Male,White,Graduate,Medium,Republican,0,1.0294117647058825
+464,30-44,Female,Black,Bachelor,Low,Republican,0,1.0119047619047619
+465,60+,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+466,18-29,Female,White,High School or Less,High,Democrat,1,1.0119047619047619
+467,30-44,Male,Hispanic,High School or Less,Medium,Republican,0,1.0294117647058825
+468,45-59,Male,White,Bachelor,Medium,Independent,1,1.0294117647058825
+469,60+,Male,White,Bachelor,Medium,Democrat,0,1.0294117647058825
+470,60+,Male,White,High School or Less,High,Other,0,1.0294117647058825
+471,18-29,Female,White,Some College/Associates,High,Democrat,1,1.0119047619047619
+472,18-29,Male,Hispanic,Some College/Associates,High,Republican,0,1.0294117647058825
+473,18-29,Male,White,High School or Less,Low,Republican,1,1.0294117647058825
+474,45-59,Female,White,High School or Less,Medium,Republican,0,1.0119047619047619
+475,60+,Female,White,High School or Less,Medium,Republican,1,1.0119047619047619
+476,45-59,Female,White,High School or Less,Medium,Republican,1,1.0119047619047619
+477,18-29,Male,Hispanic,Bachelor,High,Independent,1,1.0294117647058825
+478,45-59,Female,White,Some College/Associates,Low,Republican,1,1.0119047619047619
+479,30-44,Male,White,High School or Less,Low,Republican,1,1.0294117647058825
+480,30-44,Male,White,Bachelor,Low,Independent,1,1.0294117647058825
+481,45-59,Male,Black,High School or Less,High,Republican,0,1.0294117647058825
+482,30-44,Male,Black,High School or Less,Medium,Democrat,1,1.0294117647058825
+483,60+,Female,Hispanic,High School or Less,Low,Republican,0,1.0119047619047619
+484,30-44,Male,White,High School or Less,High,Democrat,1,1.0294117647058825
+485,18-29,Female,White,Graduate,High,Democrat,0,1.0119047619047619
+486,60+,Female,Hispanic,High School or Less,Medium,Democrat,1,1.0119047619047619
+487,60+,Male,Hispanic,Bachelor,High,Other,0,1.0294117647058825
+488,18-29,Male,White,High School or Less,Low,Independent,0,1.0294117647058825
+489,30-44,Female,White,High School or Less,Medium,Republican,1,1.0119047619047619
+490,18-29,Female,Black,Some College/Associates,Medium,Independent,1,1.0119047619047619
+491,45-59,Other,Hispanic,Some College/Associates,Medium,Republican,0,0.0
+492,45-59,Female,Asian,High School or Less,Medium,Democrat,0,1.0119047619047619
+493,60+,Female,Hispanic,Bachelor,Medium,Democrat,1,1.0119047619047619
+494,45-59,Female,White,Graduate,Low,Republican,1,1.0119047619047619
+495,45-59,Female,White,High School or Less,Medium,Republican,0,1.0119047619047619
+496,45-59,Male,Black,Bachelor,Low,Democrat,0,1.0294117647058825
+497,45-59,Female,Hispanic,Bachelor,High,Republican,0,1.0119047619047619
+498,30-44,Male,White,High School or Less,High,Republican,0,1.0294117647058825
+499,30-44,Male,White,Some College/Associates,Low,Republican,1,1.0294117647058825
+500,60+,Female,White,Graduate,High,Democrat,0,1.0119047619047619
+501,30-44,Female,Other,High School or Less,High,Republican,1,1.0119047619047619
+502,30-44,Female,White,High School or Less,Low,Other,0,1.0119047619047619
+503,60+,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+504,30-44,Male,White,High School or Less,Low,Other,1,1.0294117647058825
+505,60+,Male,White,Bachelor,Low,Democrat,1,1.0294117647058825
+506,18-29,Male,White,Bachelor,Low,Democrat,0,1.0294117647058825
+507,18-29,Male,Hispanic,High School or Less,Low,Republican,0,1.0294117647058825
+508,45-59,Female,White,Some College/Associates,Medium,Democrat,1,1.0119047619047619
+509,30-44,Male,White,Some College/Associates,Low,Independent,0,1.0294117647058825
+510,30-44,Male,Black,Some College/Associates,Medium,Independent,0,1.0294117647058825
+511,30-44,Female,Hispanic,Graduate,High,Republican,0,1.0119047619047619
+512,30-44,Female,White,Some College/Associates,High,Republican,1,1.0119047619047619
+513,30-44,Male,White,Bachelor,Low,Democrat,0,1.0294117647058825
+514,18-29,Female,White,Some College/Associates,Medium,Democrat,1,1.0119047619047619
+515,30-44,Female,White,Some College/Associates,Low,Democrat,1,1.0119047619047619
+516,18-29,Female,White,Graduate,High,Republican,0,1.0119047619047619
+517,30-44,Female,White,High School or Less,Medium,Independent,0,1.0119047619047619
+518,18-29,Female,White,High School or Less,High,Democrat,1,1.0119047619047619
+519,18-29,Female,Hispanic,Some College/Associates,Medium,Democrat,1,1.0119047619047619
+520,30-44,Male,White,Graduate,Low,Democrat,1,1.0294117647058825
+521,18-29,Female,White,Some College/Associates,Medium,Democrat,1,1.0119047619047619
+522,30-44,Female,Other,Bachelor,Low,Independent,1,1.0119047619047619
+523,18-29,Male,White,Some College/Associates,Medium,Other,1,1.0294117647058825
+524,30-44,Male,White,Some College/Associates,Low,Independent,0,1.0294117647058825
+525,18-29,Male,White,High School or Less,Medium,Democrat,1,1.0294117647058825
+526,30-44,Male,White,Bachelor,Low,Independent,0,1.0294117647058825
+527,45-59,Male,Black,Some College/Associates,High,Republican,0,1.0294117647058825
+528,18-29,Female,White,Bachelor,Low,Democrat,1,1.0119047619047619
+529,60+,Female,Asian,High School or Less,Medium,Republican,0,1.0119047619047619
+530,60+,Female,Hispanic,Bachelor,Low,Democrat,0,1.0119047619047619
+531,18-29,Female,Black,Some College/Associates,High,Democrat,1,1.0119047619047619
+532,18-29,Male,White,High School or Less,High,Other,1,1.0294117647058825
+533,30-44,Female,White,High School or Less,Low,Republican,0,1.0119047619047619
+534,60+,Male,White,High School or Less,Medium,Republican,1,1.0294117647058825
+535,45-59,Female,Hispanic,Bachelor,Medium,Democrat,1,1.0119047619047619
+536,18-29,Female,White,Some College/Associates,High,Independent,0,1.0119047619047619
+537,30-44,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+538,60+,Male,Hispanic,Some College/Associates,Low,Republican,0,1.0294117647058825
+539,45-59,Male,White,High School or Less,Medium,Other,0,1.0294117647058825
+540,45-59,Female,Asian,Bachelor,Medium,Republican,1,1.0119047619047619
+541,30-44,Male,White,Bachelor,High,Democrat,1,1.0294117647058825
+542,30-44,Male,Other,High School or Less,Low,Republican,1,1.0294117647058825
+543,18-29,Female,White,High School or Less,Low,Republican,0,1.0119047619047619
+544,60+,Female,Other,High School or Less,High,Republican,0,1.0119047619047619
+545,18-29,Male,Black,Some College/Associates,Low,Republican,0,1.0294117647058825
+546,45-59,Male,Hispanic,Bachelor,Medium,Republican,0,1.0294117647058825
+547,60+,Male,White,High School or Less,Medium,Republican,1,1.0294117647058825
+548,18-29,Male,Hispanic,Bachelor,Low,Republican,0,1.0294117647058825
+549,60+,Male,Asian,Bachelor,Medium,Democrat,1,1.0294117647058825
+550,30-44,Male,Black,Graduate,Medium,Independent,1,1.0294117647058825
+551,30-44,Male,Black,Graduate,Medium,Democrat,1,1.0294117647058825
+552,45-59,Male,Hispanic,Bachelor,Medium,Republican,0,1.0294117647058825
+553,18-29,Male,White,Bachelor,Medium,Democrat,1,1.0294117647058825
+554,18-29,Male,Hispanic,High School or Less,Low,Democrat,0,1.0294117647058825
+555,45-59,Male,White,Bachelor,High,Democrat,0,1.0294117647058825
+556,60+,Female,Black,Some College/Associates,Low,Independent,0,1.0119047619047619
+557,45-59,Male,Hispanic,Bachelor,Low,Independent,1,1.0294117647058825
+558,60+,Male,White,Graduate,Low,Independent,0,1.0294117647058825
+559,30-44,Male,White,High School or Less,Low,Democrat,1,1.0294117647058825
+560,60+,Female,White,Bachelor,Low,Republican,1,1.0119047619047619
+561,60+,Male,Hispanic,High School or Less,High,Democrat,1,1.0294117647058825
+562,45-59,Female,White,Graduate,Low,Republican,0,1.0119047619047619
+563,30-44,Female,White,High School or Less,Low,Republican,1,1.0119047619047619
+564,60+,Male,White,High School or Less,Low,Republican,0,1.0294117647058825
+565,18-29,Male,White,Bachelor,High,Democrat,1,1.0294117647058825
+566,60+,Female,White,High School or Less,Low,Republican,0,1.0119047619047619
+567,18-29,Female,White,Bachelor,Low,Democrat,1,1.0119047619047619
+568,30-44,Female,White,High School or Less,Medium,Democrat,0,1.0119047619047619
+569,30-44,Female,White,Some College/Associates,High,Independent,1,1.0119047619047619
+570,18-29,Female,Asian,High School or Less,Medium,Democrat,0,1.0119047619047619
+571,18-29,Male,Hispanic,High School or Less,Medium,Republican,0,1.0294117647058825
+572,30-44,Female,White,Some College/Associates,High,Independent,1,1.0119047619047619
+573,18-29,Male,White,Some College/Associates,Medium,Democrat,1,1.0294117647058825
+574,30-44,Female,White,Some College/Associates,Low,Independent,0,1.0119047619047619
+575,30-44,Male,White,High School or Less,Medium,Independent,1,1.0294117647058825
+576,60+,Male,White,Bachelor,Low,Republican,0,1.0294117647058825
+577,18-29,Other,White,Graduate,High,Independent,0,0.0
+578,45-59,Female,White,Some College/Associates,Medium,Republican,0,1.0119047619047619
+579,30-44,Female,Hispanic,High School or Less,High,Republican,1,1.0119047619047619
+580,45-59,Female,White,Bachelor,Low,Independent,0,1.0119047619047619
+581,30-44,Male,Hispanic,High School or Less,High,Democrat,1,1.0294117647058825
+582,60+,Female,Hispanic,High School or Less,Medium,Republican,0,1.0119047619047619
+583,45-59,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+584,18-29,Female,Hispanic,High School or Less,Low,Democrat,1,1.0119047619047619
+585,60+,Male,Hispanic,High School or Less,Medium,Other,0,1.0294117647058825
+586,30-44,Male,White,High School or Less,Low,Republican,0,1.0294117647058825
+587,30-44,Male,White,Bachelor,High,Democrat,0,1.0294117647058825
+588,45-59,Female,White,High School or Less,Low,Republican,0,1.0119047619047619
+589,60+,Male,White,Bachelor,Low,Republican,0,1.0294117647058825
+590,60+,Female,Black,Bachelor,High,Democrat,1,1.0119047619047619
+591,30-44,Male,Black,Some College/Associates,Medium,Democrat,1,1.0294117647058825
+592,30-44,Female,White,High School or Less,Low,Democrat,0,1.0119047619047619
+593,60+,Female,White,Some College/Associates,Medium,Independent,0,1.0119047619047619
+594,18-29,Female,White,High School or Less,Low,Republican,1,1.0119047619047619
+595,60+,Female,White,High School or Less,Medium,Republican,0,1.0119047619047619
+596,30-44,Male,White,High School or Less,Low,Democrat,0,1.0294117647058825
+597,30-44,Female,Hispanic,Graduate,Medium,Independent,1,1.0119047619047619
+598,30-44,Male,Black,Bachelor,Low,Democrat,1,1.0294117647058825
+599,18-29,Female,Black,Bachelor,Medium,Independent,1,1.0119047619047619
+600,45-59,Female,White,High School or Less,Low,Republican,0,1.0119047619047619
+601,60+,Male,White,Graduate,Low,Republican,0,1.0294117647058825
+602,30-44,Male,White,High School or Less,Medium,Republican,0,1.0294117647058825
+603,45-59,Female,White,Some College/Associates,Medium,Democrat,1,1.0119047619047619
+604,45-59,Female,Hispanic,Some College/Associates,Medium,Republican,1,1.0119047619047619
+605,30-44,Male,Black,Some College/Associates,Low,Other,1,1.0294117647058825
+606,30-44,Male,Hispanic,Bachelor,Low,Republican,0,1.0294117647058825
+607,45-59,Male,White,Graduate,Low,Democrat,1,1.0294117647058825
+608,60+,Male,White,High School or Less,Medium,Democrat,0,1.0294117647058825
+609,60+,Male,White,Some College/Associates,Low,Independent,0,1.0294117647058825
+610,30-44,Female,White,Some College/Associates,Low,Independent,0,1.0119047619047619
+611,45-59,Female,White,Some College/Associates,Medium,Republican,0,1.0119047619047619
+612,30-44,Male,White,High School or Less,Medium,Democrat,1,1.0294117647058825
+613,45-59,Female,Hispanic,Some College/Associates,Low,Independent,1,1.0119047619047619
+614,18-29,Female,Hispanic,High School or Less,Low,Democrat,1,1.0119047619047619
+615,30-44,Female,White,Graduate,Medium,Republican,1,1.0119047619047619
+616,18-29,Male,Black,Bachelor,Medium,Democrat,0,1.0294117647058825
+617,18-29,Female,Other,High School or Less,Medium,Democrat,1,1.0119047619047619
+618,30-44,Female,Asian,Bachelor,Medium,Independent,0,1.0119047619047619
+619,18-29,Other,White,Bachelor,Low,Democrat,1,0.0
+620,45-59,Male,White,Some College/Associates,High,Republican,0,1.0294117647058825
+621,30-44,Male,Hispanic,Bachelor,Medium,Republican,1,1.0294117647058825
+622,45-59,Female,Black,Bachelor,Medium,Republican,1,1.0119047619047619
+623,30-44,Female,White,Some College/Associates,Medium,Democrat,1,1.0119047619047619
+624,45-59,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+625,18-29,Male,White,High School or Less,Low,Republican,0,1.0294117647058825
+626,30-44,Male,Hispanic,High School or Less,Medium,Democrat,1,1.0294117647058825
+627,45-59,Female,Hispanic,Some College/Associates,High,Democrat,1,1.0119047619047619
+628,18-29,Male,White,Some College/Associates,Low,Other,0,1.0294117647058825
+629,30-44,Male,White,High School or Less,Low,Republican,0,1.0294117647058825
+630,30-44,Other,Black,Graduate,Low,Republican,0,0.0
+631,18-29,Male,Black,Some College/Associates,Low,Republican,0,1.0294117647058825
+632,18-29,Male,White,High School or Less,High,Republican,1,1.0294117647058825
+633,30-44,Male,White,High School or Less,Low,Independent,1,1.0294117647058825
+634,30-44,Male,Asian,High School or Less,Low,Democrat,0,1.0294117647058825
+635,60+,Male,Hispanic,Bachelor,Low,Republican,0,1.0294117647058825
+636,60+,Male,Hispanic,High School or Less,Medium,Republican,0,1.0294117647058825
+637,60+,Female,Hispanic,High School or Less,Medium,Democrat,1,1.0119047619047619
+638,30-44,Male,White,Graduate,Low,Republican,0,1.0294117647058825
+639,18-29,Male,Asian,Graduate,High,Other,1,1.0294117647058825
+640,30-44,Female,White,Some College/Associates,Low,Republican,0,1.0119047619047619
+641,18-29,Male,White,Some College/Associates,Low,Independent,1,1.0294117647058825
+642,30-44,Female,White,High School or Less,Medium,Republican,1,1.0119047619047619
+643,45-59,Female,White,High School or Less,Low,Republican,0,1.0119047619047619
+644,30-44,Male,White,Some College/Associates,Low,Independent,0,1.0294117647058825
+645,45-59,Female,White,Some College/Associates,Low,Republican,0,1.0119047619047619
+646,30-44,Female,Hispanic,High School or Less,Low,Independent,0,1.0119047619047619
+647,60+,Female,Hispanic,Some College/Associates,Medium,Other,0,1.0119047619047619
+648,18-29,Male,White,High School or Less,Low,Republican,0,1.0294117647058825
+649,30-44,Female,White,High School or Less,Low,Republican,0,1.0119047619047619
+650,30-44,Male,Hispanic,High School or Less,Medium,Republican,1,1.0294117647058825
+651,60+,Male,White,Graduate,Medium,Republican,0,1.0294117647058825
+652,45-59,Female,Other,Bachelor,Low,Independent,1,1.0119047619047619
+653,18-29,Female,White,High School or Less,Low,Independent,1,1.0119047619047619
+654,45-59,Male,Hispanic,Bachelor,Low,Republican,0,1.0294117647058825
+655,60+,Female,Asian,High School or Less,Medium,Independent,0,1.0119047619047619
+656,60+,Male,White,Bachelor,Medium,Republican,0,1.0294117647058825
+657,30-44,Male,White,Some College/Associates,Medium,Democrat,1,1.0294117647058825
+658,30-44,Male,Hispanic,Graduate,Low,Independent,0,1.0294117647058825
+659,60+,Male,Asian,High School or Less,Low,Democrat,1,1.0294117647058825
+660,18-29,Male,White,Bachelor,High,Democrat,0,1.0294117647058825
+661,60+,Female,White,Bachelor,High,Republican,0,1.0119047619047619
+662,30-44,Female,White,High School or Less,Low,Independent,0,1.0119047619047619
+663,18-29,Female,White,Bachelor,Medium,Independent,0,1.0119047619047619
+664,30-44,Female,White,Bachelor,Medium,Republican,0,1.0119047619047619
+665,60+,Male,White,Bachelor,Medium,Independent,0,1.0294117647058825
+666,18-29,Female,White,High School or Less,Medium,Republican,0,1.0119047619047619
+667,30-44,Female,Hispanic,Bachelor,Low,Independent,0,1.0119047619047619
+668,45-59,Male,Hispanic,Bachelor,Low,Republican,1,1.0294117647058825
+669,18-29,Female,Black,Some College/Associates,Low,Democrat,0,1.0119047619047619
+670,30-44,Female,White,High School or Less,Low,Republican,1,1.0119047619047619
+671,30-44,Male,White,Some College/Associates,Low,Independent,1,1.0294117647058825
+672,30-44,Male,Other,High School or Less,Low,Republican,0,1.0294117647058825
+673,30-44,Male,Hispanic,High School or Less,High,Republican,0,1.0294117647058825
+674,30-44,Male,Hispanic,Some College/Associates,Low,Republican,1,1.0294117647058825
+675,30-44,Female,White,High School or Less,Low,Republican,0,1.0119047619047619
+676,18-29,Female,Hispanic,Bachelor,Low,Democrat,1,1.0119047619047619
+677,45-59,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+678,45-59,Female,White,High School or Less,High,Democrat,1,1.0119047619047619
+679,18-29,Male,White,Bachelor,Low,Republican,1,1.0294117647058825
+680,30-44,Female,Hispanic,High School or Less,Medium,Republican,1,1.0119047619047619
+681,30-44,Other,Hispanic,High School or Less,Medium,Other,0,0.0
+682,18-29,Female,White,High School or Less,Low,Democrat,0,1.0119047619047619
+683,30-44,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+684,18-29,Female,White,Some College/Associates,Low,Independent,0,1.0119047619047619
+685,30-44,Male,White,Graduate,Low,Democrat,1,1.0294117647058825
+686,30-44,Male,Hispanic,High School or Less,Medium,Democrat,1,1.0294117647058825
+687,60+,Male,Hispanic,Some College/Associates,Low,Other,0,1.0294117647058825
+688,60+,Male,Hispanic,High School or Less,Medium,Independent,1,1.0294117647058825
+689,60+,Female,Hispanic,High School or Less,Low,Democrat,1,1.0119047619047619
+690,30-44,Female,White,Bachelor,Low,Democrat,1,1.0119047619047619
+691,45-59,Female,Black,High School or Less,Medium,Democrat,1,1.0119047619047619
+692,30-44,Male,White,Graduate,High,Republican,0,1.0294117647058825
+693,18-29,Male,Asian,High School or Less,Medium,Democrat,0,1.0294117647058825
+694,30-44,Female,White,Some College/Associates,Low,Democrat,0,1.0119047619047619
+695,60+,Female,Black,Bachelor,Low,Democrat,1,1.0119047619047619
+696,45-59,Male,White,Some College/Associates,High,Republican,0,1.0294117647058825
+697,18-29,Male,White,Some College/Associates,Medium,Republican,0,1.0294117647058825
+698,60+,Male,White,Bachelor,Low,Democrat,0,1.0294117647058825
+699,30-44,Female,White,Bachelor,Low,Democrat,1,1.0119047619047619
+700,18-29,Male,White,High School or Less,Low,Democrat,0,1.0294117647058825
+701,18-29,Male,White,High School or Less,High,Democrat,0,1.0294117647058825
+702,18-29,Female,White,Graduate,Medium,Republican,0,1.0119047619047619
+703,18-29,Female,White,High School or Less,Medium,Democrat,0,1.0119047619047619
+704,45-59,Female,Hispanic,High School or Less,Low,Republican,0,1.0119047619047619
+705,45-59,Female,White,High School or Less,High,Republican,0,1.0119047619047619
+706,30-44,Female,White,Bachelor,High,Democrat,1,1.0119047619047619
+707,60+,Male,Hispanic,Graduate,Medium,Independent,1,1.0294117647058825
+708,60+,Male,White,Some College/Associates,Medium,Republican,0,1.0294117647058825
+709,30-44,Female,White,Bachelor,Medium,Democrat,1,1.0119047619047619
+710,45-59,Male,White,Graduate,Medium,Other,0,1.0294117647058825
+711,30-44,Female,White,Bachelor,Low,Republican,0,1.0119047619047619
+712,18-29,Male,White,Graduate,Low,Republican,1,1.0294117647058825
+713,45-59,Male,Black,Some College/Associates,Medium,Independent,0,1.0294117647058825
+714,45-59,Male,Black,High School or Less,High,Democrat,1,1.0294117647058825
+715,60+,Female,White,Some College/Associates,High,Democrat,0,1.0119047619047619
+716,18-29,Female,Hispanic,High School or Less,Low,Democrat,1,1.0119047619047619
+717,30-44,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+718,60+,Female,White,Graduate,Medium,Other,0,1.0119047619047619
+719,30-44,Male,Black,High School or Less,Low,Republican,0,1.0294117647058825
+720,45-59,Male,White,Some College/Associates,High,Independent,1,1.0294117647058825
+721,45-59,Female,White,Bachelor,Medium,Republican,0,1.0119047619047619
+722,30-44,Male,White,High School or Less,High,Democrat,1,1.0294117647058825
+723,30-44,Female,White,High School or Less,Medium,Democrat,0,1.0119047619047619
+724,60+,Female,White,Bachelor,Low,Republican,0,1.0119047619047619
+725,60+,Male,White,Bachelor,Medium,Democrat,0,1.0294117647058825
+726,30-44,Female,White,Some College/Associates,Low,Democrat,1,1.0119047619047619
+727,60+,Male,White,Some College/Associates,Medium,Democrat,1,1.0294117647058825
+728,18-29,Male,White,Bachelor,Low,Democrat,1,1.0294117647058825
+729,60+,Male,White,High School or Less,Low,Republican,0,1.0294117647058825
+730,30-44,Male,White,High School or Less,Low,Independent,1,1.0294117647058825
+731,60+,Female,Black,Bachelor,Low,Republican,0,1.0119047619047619
+732,30-44,Female,White,High School or Less,High,Democrat,1,1.0119047619047619
+733,60+,Female,White,High School or Less,Low,Independent,1,1.0119047619047619
+734,30-44,Male,White,Graduate,Low,Republican,0,1.0294117647058825
+735,45-59,Female,White,High School or Less,Medium,Independent,1,1.0119047619047619
+736,60+,Female,Hispanic,Some College/Associates,Low,Democrat,1,1.0119047619047619
+737,60+,Female,Black,High School or Less,Low,Independent,1,1.0119047619047619
+738,18-29,Female,White,High School or Less,Medium,Democrat,0,1.0119047619047619
+739,18-29,Male,White,Bachelor,Low,Republican,0,1.0294117647058825
+740,18-29,Male,Hispanic,Graduate,Low,Republican,1,1.0294117647058825
+741,30-44,Female,White,Graduate,Medium,Other,0,1.0119047619047619
+742,30-44,Female,White,High School or Less,Medium,Independent,0,1.0119047619047619
+743,18-29,Female,Hispanic,High School or Less,Low,Democrat,1,1.0119047619047619
+744,60+,Female,Black,Graduate,Low,Independent,1,1.0119047619047619
+745,60+,Male,Asian,High School or Less,Low,Independent,0,1.0294117647058825
+746,45-59,Male,Hispanic,High School or Less,Low,Democrat,1,1.0294117647058825
+747,18-29,Male,White,High School or Less,Medium,Independent,1,1.0294117647058825
+748,45-59,Female,White,Bachelor,Low,Republican,0,1.0119047619047619
+749,45-59,Female,White,High School or Less,High,Republican,0,1.0119047619047619
+750,60+,Female,White,Bachelor,High,Republican,0,1.0119047619047619
+751,30-44,Female,Black,High School or Less,High,Republican,0,1.0119047619047619
+752,30-44,Male,Hispanic,High School or Less,High,Republican,0,1.0294117647058825
+753,60+,Female,White,Some College/Associates,High,Democrat,1,1.0119047619047619
+754,18-29,Male,Hispanic,Some College/Associates,Low,Democrat,1,1.0294117647058825
+755,60+,Male,Other,Some College/Associates,Low,Independent,0,1.0294117647058825
+756,45-59,Other,White,High School or Less,Medium,Democrat,1,0.0
+757,18-29,Male,Hispanic,High School or Less,Medium,Republican,0,1.0294117647058825
+758,18-29,Female,White,Bachelor,High,Republican,0,1.0119047619047619
+759,30-44,Male,Hispanic,Graduate,Low,Republican,1,1.0294117647058825
+760,60+,Female,White,High School or Less,High,Democrat,1,1.0119047619047619
+761,30-44,Male,White,Graduate,Low,Republican,0,1.0294117647058825
+762,18-29,Male,White,High School or Less,Low,Democrat,1,1.0294117647058825
+763,60+,Female,White,Some College/Associates,High,Democrat,0,1.0119047619047619
+764,60+,Male,White,Graduate,Medium,Democrat,1,1.0294117647058825
+765,30-44,Female,Hispanic,Graduate,Low,Republican,0,1.0119047619047619
+766,30-44,Male,Other,Graduate,Medium,Republican,0,1.0294117647058825
+767,30-44,Female,White,Graduate,Medium,Republican,1,1.0119047619047619
+768,18-29,Male,White,Some College/Associates,Medium,Republican,1,1.0294117647058825
+769,45-59,Male,Hispanic,High School or Less,Low,Republican,0,1.0294117647058825
+770,18-29,Female,White,Some College/Associates,High,Republican,1,1.0119047619047619
+771,18-29,Female,Hispanic,Some College/Associates,Medium,Republican,0,1.0119047619047619
+772,30-44,Male,Hispanic,High School or Less,High,Other,1,1.0294117647058825
+773,30-44,Female,Other,Some College/Associates,Low,Republican,1,1.0119047619047619
+774,30-44,Female,White,High School or Less,Low,Republican,0,1.0119047619047619
+775,30-44,Male,White,High School or Less,High,Republican,0,1.0294117647058825
+776,45-59,Other,White,Bachelor,Medium,Republican,0,0.0
+777,45-59,Male,White,Bachelor,Low,Independent,0,1.0294117647058825
+778,60+,Male,White,High School or Less,High,Democrat,1,1.0294117647058825
+779,30-44,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+780,30-44,Female,White,High School or Less,Low,Other,0,1.0119047619047619
+781,60+,Male,White,High School or Less,Low,Republican,1,1.0294117647058825
+782,60+,Female,White,Bachelor,Low,Democrat,0,1.0119047619047619
+783,18-29,Male,White,Bachelor,Medium,Democrat,0,1.0294117647058825
+784,30-44,Male,Black,Bachelor,High,Democrat,1,1.0294117647058825
+785,45-59,Female,White,Bachelor,Medium,Democrat,1,1.0119047619047619
+786,30-44,Female,Hispanic,Some College/Associates,Medium,Republican,0,1.0119047619047619
+787,18-29,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+788,30-44,Male,Asian,Graduate,Medium,Democrat,0,1.0294117647058825
+789,60+,Female,White,Some College/Associates,High,Republican,0,1.0119047619047619
+790,30-44,Female,White,Some College/Associates,Low,Republican,0,1.0119047619047619
+791,30-44,Male,Black,Bachelor,Low,Democrat,1,1.0294117647058825
+792,60+,Female,White,High School or Less,Medium,Independent,1,1.0119047619047619
+793,45-59,Male,White,High School or Less,Low,Democrat,1,1.0294117647058825
+794,30-44,Female,Black,Bachelor,Medium,Democrat,1,1.0119047619047619
+795,30-44,Female,White,Graduate,Low,Democrat,0,1.0119047619047619
+796,18-29,Female,Black,Bachelor,High,Other,1,1.0119047619047619
+797,60+,Female,Black,High School or Less,Medium,Other,0,1.0119047619047619
+798,30-44,Male,White,Bachelor,Medium,Republican,0,1.0294117647058825
+799,30-44,Male,Asian,Some College/Associates,Low,Republican,0,1.0294117647058825
+800,60+,Male,White,High School or Less,Medium,Republican,0,1.0294117647058825
+801,30-44,Male,White,Bachelor,Low,Republican,1,1.0294117647058825
+802,60+,Male,White,High School or Less,Medium,Independent,0,1.0294117647058825
+803,30-44,Female,Hispanic,High School or Less,Medium,Democrat,1,1.0119047619047619
+804,60+,Female,Hispanic,High School or Less,High,Republican,0,1.0119047619047619
+805,30-44,Male,Hispanic,Some College/Associates,Low,Democrat,1,1.0294117647058825
+806,18-29,Female,Hispanic,High School or Less,Low,Republican,1,1.0119047619047619
+807,30-44,Male,White,High School or Less,Low,Independent,1,1.0294117647058825
+808,45-59,Female,Black,High School or Less,Low,Democrat,1,1.0119047619047619
+809,45-59,Female,Other,Some College/Associates,Low,Democrat,0,1.0119047619047619
+810,45-59,Female,Hispanic,Bachelor,High,Democrat,1,1.0119047619047619
+811,60+,Male,Black,High School or Less,High,Democrat,1,1.0294117647058825
+812,18-29,Female,White,High School or Less,Medium,Other,1,1.0119047619047619
+813,18-29,Female,White,Graduate,Low,Republican,0,1.0119047619047619
+814,18-29,Female,White,Bachelor,Low,Republican,0,1.0119047619047619
+815,60+,Male,White,High School or Less,Medium,Democrat,0,1.0294117647058825
+816,30-44,Female,White,Bachelor,High,Democrat,0,1.0119047619047619
+817,30-44,Female,Black,High School or Less,Low,Democrat,1,1.0119047619047619
+818,18-29,Male,White,Bachelor,Low,Democrat,1,1.0294117647058825
+819,18-29,Male,White,Graduate,High,Republican,1,1.0294117647058825
+820,30-44,Female,Black,Some College/Associates,Low,Democrat,1,1.0119047619047619
+821,60+,Female,Hispanic,Graduate,Low,Republican,0,1.0119047619047619
+822,60+,Other,Black,High School or Less,Medium,Democrat,0,0.0
+823,60+,Male,Black,Some College/Associates,Low,Democrat,0,1.0294117647058825
+824,60+,Female,White,Graduate,Medium,Democrat,1,1.0119047619047619
+825,30-44,Female,Black,Bachelor,Low,Independent,1,1.0119047619047619
+826,30-44,Female,White,Bachelor,Low,Republican,0,1.0119047619047619
+827,45-59,Male,White,Graduate,Low,Independent,1,1.0294117647058825
+828,18-29,Male,Black,Graduate,High,Republican,1,1.0294117647058825
+829,18-29,Female,Other,High School or Less,Low,Democrat,1,1.0119047619047619
+830,60+,Male,White,High School or Less,High,Republican,0,1.0294117647058825
+831,18-29,Other,Hispanic,High School or Less,Low,Democrat,1,0.0
+832,45-59,Female,White,Bachelor,Low,Independent,0,1.0119047619047619
+833,18-29,Male,Black,High School or Less,Low,Republican,1,1.0294117647058825
+834,30-44,Female,White,Bachelor,Medium,Independent,1,1.0119047619047619
+835,45-59,Female,White,High School or Less,Low,Democrat,0,1.0119047619047619
+836,18-29,Male,Hispanic,High School or Less,Medium,Democrat,0,1.0294117647058825
+837,60+,Female,White,Bachelor,Low,Democrat,1,1.0119047619047619
+838,45-59,Male,White,High School or Less,Low,Independent,0,1.0294117647058825
+839,45-59,Male,Hispanic,Some College/Associates,Low,Democrat,1,1.0294117647058825
+840,60+,Male,White,Graduate,Medium,Republican,0,1.0294117647058825
+841,18-29,Female,White,Graduate,Medium,Republican,0,1.0119047619047619
+842,60+,Female,White,Bachelor,Medium,Republican,0,1.0119047619047619
+843,30-44,Male,Asian,High School or Less,High,Republican,0,1.0294117647058825
+844,30-44,Male,White,High School or Less,Medium,Republican,1,1.0294117647058825
+845,18-29,Male,White,Graduate,Medium,Republican,0,1.0294117647058825
+846,18-29,Other,Black,High School or Less,Medium,Democrat,0,0.0
+847,18-29,Female,White,Bachelor,Medium,Republican,0,1.0119047619047619
+848,60+,Male,White,High School or Less,High,Republican,0,1.0294117647058825
+849,45-59,Male,White,High School or Less,Low,Democrat,1,1.0294117647058825
+850,60+,Female,White,High School or Less,Low,Republican,1,1.0119047619047619
+851,18-29,Male,Hispanic,Some College/Associates,Low,Republican,0,1.0294117647058825
+852,30-44,Female,Hispanic,Some College/Associates,High,Republican,1,1.0119047619047619
+853,30-44,Female,Hispanic,High School or Less,High,Independent,0,1.0119047619047619
+854,18-29,Female,Hispanic,High School or Less,High,Democrat,1,1.0119047619047619
+855,30-44,Female,Black,High School or Less,High,Democrat,1,1.0119047619047619
+856,18-29,Female,Asian,Bachelor,High,Democrat,1,1.0119047619047619
+857,30-44,Female,White,Bachelor,Medium,Independent,1,1.0119047619047619
+858,18-29,Female,White,Graduate,Medium,Democrat,0,1.0119047619047619
+859,30-44,Male,Black,High School or Less,High,Independent,0,1.0294117647058825
+860,30-44,Male,Hispanic,High School or Less,Medium,Republican,0,1.0294117647058825
+861,30-44,Female,Hispanic,High School or Less,Low,Democrat,0,1.0119047619047619
+862,18-29,Female,White,Some College/Associates,Low,Independent,1,1.0119047619047619
+863,45-59,Male,Black,Graduate,Low,Independent,0,1.0294117647058825
+864,18-29,Male,White,Bachelor,Medium,Democrat,1,1.0294117647058825
+865,60+,Female,White,Graduate,Medium,Republican,1,1.0119047619047619
+866,30-44,Male,White,Bachelor,High,Republican,0,1.0294117647058825
+867,30-44,Female,White,Bachelor,Medium,Democrat,1,1.0119047619047619
+868,18-29,Female,White,High School or Less,Medium,Democrat,1,1.0119047619047619
+869,30-44,Female,White,High School or Less,Low,Other,1,1.0119047619047619
+870,30-44,Male,White,Bachelor,Low,Independent,0,1.0294117647058825
+871,30-44,Female,White,Some College/Associates,Low,Independent,1,1.0119047619047619
+872,60+,Male,Hispanic,High School or Less,Medium,Democrat,0,1.0294117647058825
+873,18-29,Male,White,High School or Less,Low,Other,0,1.0294117647058825
+874,30-44,Female,White,High School or Less,Medium,Republican,1,1.0119047619047619
+875,30-44,Female,White,High School or Less,Low,Other,0,1.0119047619047619
+876,45-59,Female,White,High School or Less,Low,Republican,1,1.0119047619047619
+877,30-44,Male,White,High School or Less,Low,Other,1,1.0294117647058825
+878,60+,Male,White,High School or Less,High,Independent,0,1.0294117647058825
+879,30-44,Male,Black,Graduate,Medium,Republican,0,1.0294117647058825
+880,18-29,Male,White,Bachelor,Medium,Democrat,0,1.0294117647058825
+881,18-29,Male,White,High School or Less,Low,Republican,0,1.0294117647058825
+882,60+,Male,White,High School or Less,Medium,Democrat,0,1.0294117647058825
+883,30-44,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+884,18-29,Male,Other,High School or Less,High,Independent,1,1.0294117647058825
+885,18-29,Male,Black,Some College/Associates,Medium,Other,0,1.0294117647058825
+886,18-29,Male,Hispanic,High School or Less,Low,Independent,1,1.0294117647058825
+887,60+,Female,White,Graduate,Low,Democrat,1,1.0119047619047619
+888,18-29,Female,White,Some College/Associates,Low,Independent,0,1.0119047619047619
+889,18-29,Male,White,High School or Less,Medium,Independent,1,1.0294117647058825
+890,30-44,Male,Black,High School or Less,High,Independent,1,1.0294117647058825
+891,45-59,Female,White,High School or Less,Low,Independent,0,1.0119047619047619
+892,45-59,Female,Hispanic,Graduate,Low,Republican,1,1.0119047619047619
+893,45-59,Female,White,Bachelor,Medium,Democrat,1,1.0119047619047619
+894,18-29,Male,White,Some College/Associates,Medium,Republican,1,1.0294117647058825
+895,60+,Male,White,Graduate,Low,Other,1,1.0294117647058825
+896,30-44,Other,White,High School or Less,Medium,Republican,1,0.0
+897,18-29,Female,White,Bachelor,Low,Republican,1,1.0119047619047619
+898,18-29,Female,White,Bachelor,Medium,Democrat,1,1.0119047619047619
+899,60+,Male,Other,Some College/Associates,Low,Republican,1,1.0294117647058825
+900,30-44,Female,Hispanic,High School or Less,Low,Independent,1,1.0119047619047619
+901,45-59,Male,White,Bachelor,Low,Republican,0,1.0294117647058825
+902,30-44,Female,Hispanic,High School or Less,Medium,Republican,0,1.0119047619047619
+903,30-44,Female,Black,Some College/Associates,Medium,Democrat,1,1.0119047619047619
+904,30-44,Female,White,High School or Less,Low,Other,1,1.0119047619047619
+905,30-44,Male,White,Bachelor,Medium,Republican,0,1.0294117647058825
+906,45-59,Male,White,Some College/Associates,Low,Democrat,1,1.0294117647058825
+907,45-59,Female,White,High School or Less,Low,Other,0,1.0119047619047619
+908,45-59,Male,White,High School or Less,Medium,Other,1,1.0294117647058825
+909,30-44,Male,Asian,Bachelor,Low,Republican,0,1.0294117647058825
+910,30-44,Male,White,High School or Less,Low,Republican,1,1.0294117647058825
+911,45-59,Male,Asian,Graduate,Low,Democrat,1,1.0294117647058825
+912,60+,Female,Hispanic,Some College/Associates,Medium,Democrat,1,1.0119047619047619
+913,30-44,Female,White,Bachelor,Low,Republican,0,1.0119047619047619
+914,30-44,Female,Black,Graduate,Low,Republican,0,1.0119047619047619
+915,30-44,Female,Black,Graduate,Low,Independent,1,1.0119047619047619
+916,60+,Male,White,Some College/Associates,High,Democrat,1,1.0294117647058825
+917,60+,Male,White,Some College/Associates,Low,Other,1,1.0294117647058825
+918,30-44,Other,White,High School or Less,Low,Republican,0,0.0
+919,60+,Female,White,Some College/Associates,Medium,Other,1,1.0119047619047619
+920,30-44,Female,White,Some College/Associates,Low,Democrat,1,1.0119047619047619
+921,30-44,Male,Black,High School or Less,Medium,Republican,1,1.0294117647058825
+922,30-44,Male,White,Bachelor,High,Republican,0,1.0294117647058825
+923,60+,Male,Black,Some College/Associates,Low,Democrat,1,1.0294117647058825
+924,45-59,Female,White,Bachelor,Low,Republican,0,1.0119047619047619
+925,60+,Female,Black,Bachelor,Medium,Other,0,1.0119047619047619
+926,60+,Female,White,Some College/Associates,Low,Republican,0,1.0119047619047619
+927,45-59,Male,White,Some College/Associates,High,Republican,0,1.0294117647058825
+928,45-59,Female,White,Some College/Associates,Low,Other,1,1.0119047619047619
+929,30-44,Male,White,Bachelor,Low,Democrat,1,1.0294117647058825
+930,18-29,Male,Hispanic,Bachelor,High,Independent,0,1.0294117647058825
+931,18-29,Female,Hispanic,Bachelor,Medium,Democrat,0,1.0119047619047619
+932,45-59,Other,White,High School or Less,Low,Independent,0,0.0
+933,18-29,Other,White,Bachelor,Low,Independent,0,0.0
+934,60+,Female,White,High School or Less,Low,Republican,1,1.0119047619047619
+935,30-44,Female,White,Bachelor,High,Democrat,1,1.0119047619047619
+936,18-29,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+937,45-59,Male,Hispanic,Bachelor,Low,Democrat,0,1.0294117647058825
+938,60+,Male,White,High School or Less,Medium,Democrat,1,1.0294117647058825
+939,45-59,Female,White,Some College/Associates,Medium,Democrat,1,1.0119047619047619
+940,60+,Male,Black,Graduate,Low,Republican,0,1.0294117647058825
+941,60+,Female,Hispanic,High School or Less,Medium,Republican,0,1.0119047619047619
+942,18-29,Male,Hispanic,Some College/Associates,Low,Republican,1,1.0294117647058825
+943,45-59,Male,White,High School or Less,High,Republican,0,1.0294117647058825
+944,45-59,Male,Hispanic,Some College/Associates,Low,Democrat,1,1.0294117647058825
+945,60+,Male,Hispanic,Bachelor,Low,Democrat,1,1.0294117647058825
+946,45-59,Male,White,Some College/Associates,Medium,Democrat,1,1.0294117647058825
+947,30-44,Female,Hispanic,High School or Less,High,Republican,0,1.0119047619047619
+948,45-59,Male,White,Bachelor,Medium,Republican,0,1.0294117647058825
+949,60+,Female,White,Some College/Associates,Medium,Independent,0,1.0119047619047619
+950,60+,Male,White,Graduate,High,Republican,1,1.0294117647058825
+951,18-29,Female,White,High School or Less,Low,Republican,0,1.0119047619047619
+952,30-44,Male,White,Some College/Associates,Low,Democrat,0,1.0294117647058825
+953,60+,Female,White,Bachelor,Low,Democrat,1,1.0119047619047619
+954,60+,Male,White,High School or Less,High,Republican,0,1.0294117647058825
+955,45-59,Female,Black,High School or Less,High,Democrat,1,1.0119047619047619
+956,18-29,Male,White,Some College/Associates,Low,Independent,1,1.0294117647058825
+957,45-59,Female,White,Bachelor,Medium,Republican,1,1.0119047619047619
+958,30-44,Female,Hispanic,High School or Less,Low,Republican,1,1.0119047619047619
+959,60+,Female,Black,Graduate,Low,Democrat,1,1.0119047619047619
+960,60+,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+961,45-59,Male,Hispanic,Some College/Associates,Medium,Democrat,1,1.0294117647058825
+962,18-29,Female,Hispanic,Some College/Associates,Low,Other,1,1.0119047619047619
+963,18-29,Female,Asian,High School or Less,Low,Other,1,1.0119047619047619
+964,18-29,Female,Hispanic,Some College/Associates,High,Republican,0,1.0119047619047619
+965,60+,Male,White,Some College/Associates,Low,Democrat,1,1.0294117647058825
+966,30-44,Female,White,Graduate,Low,Democrat,1,1.0119047619047619
+967,18-29,Male,Hispanic,Graduate,High,Democrat,0,1.0294117647058825
+968,30-44,Male,Hispanic,Some College/Associates,Low,Republican,0,1.0294117647058825
+969,45-59,Male,Other,High School or Less,Low,Republican,0,1.0294117647058825
+970,30-44,Female,Hispanic,Graduate,High,Independent,1,1.0119047619047619
+971,60+,Male,White,High School or Less,Medium,Democrat,0,1.0294117647058825
+972,30-44,Male,White,High School or Less,Low,Democrat,1,1.0294117647058825
+973,30-44,Female,Hispanic,Some College/Associates,Low,Democrat,0,1.0119047619047619
+974,18-29,Male,Hispanic,Some College/Associates,Low,Democrat,0,1.0294117647058825
+975,60+,Female,White,Some College/Associates,High,Other,0,1.0119047619047619
+976,60+,Male,White,Bachelor,Low,Other,0,1.0294117647058825
+977,30-44,Female,Hispanic,High School or Less,Low,Republican,0,1.0119047619047619
+978,60+,Female,White,High School or Less,Low,Other,0,1.0119047619047619
+979,30-44,Male,White,High School or Less,Low,Other,1,1.0294117647058825
+980,45-59,Male,White,Some College/Associates,Low,Other,1,1.0294117647058825
+981,18-29,Female,Asian,High School or Less,Medium,Democrat,1,1.0119047619047619
+982,18-29,Female,Asian,Some College/Associates,Low,Republican,0,1.0119047619047619
+983,60+,Male,White,High School or Less,Medium,Democrat,0,1.0294117647058825
+984,18-29,Male,White,Graduate,High,Democrat,1,1.0294117647058825
+985,18-29,Female,White,Graduate,High,Republican,0,1.0119047619047619
+986,60+,Female,White,High School or Less,Low,Democrat,1,1.0119047619047619
+987,18-29,Female,White,High School or Less,Low,Independent,0,1.0119047619047619
+988,30-44,Male,Other,High School or Less,Low,Democrat,1,1.0294117647058825
+989,30-44,Female,Black,Some College/Associates,High,Democrat,1,1.0119047619047619
+990,45-59,Female,White,Some College/Associates,Medium,Republican,0,1.0119047619047619
+991,30-44,Male,White,High School or Less,High,Republican,0,1.0294117647058825
+992,45-59,Female,White,Bachelor,High,Republican,0,1.0119047619047619
+993,45-59,Female,White,High School or Less,High,Democrat,0,1.0119047619047619
+994,30-44,Male,White,Bachelor,Low,Republican,0,1.0294117647058825
+995,45-59,Female,White,High School or Less,High,Republican,0,1.0119047619047619
+996,18-29,Female,White,Bachelor,Medium,Democrat,1,1.0119047619047619
+997,18-29,Male,White,Some College/Associates,Medium,Independent,0,1.0294117647058825
+998,18-29,Male,White,Graduate,High,Independent,1,1.0294117647058825
+999,30-44,Male,White,High School or Less,High,Democrat,1,1.0294117647058825
+1000,18-29,Female,White,Bachelor,High,Democrat,1,1.0119047619047619
