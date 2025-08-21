@@ -1,6 +1,6 @@
 # Voter Sentiment Analytics Platform
 
-This repository demonstrates an end‑to‑end workflow for analyzing voter sentiment data, inspired by professional work carried out at **GPSP** and **Advanced Insights**.  Our small team at GPSP conducted partisan and non‑partisan polling for Senate campaigns, lobbyists and city governments.  My role was to turn raw survey responses into actionable insights: cleaning data, applying demographic weights, building predictive models, and packaging the results for non‑technical stakeholders.  This project recreates that workflow in a self‑contained, open‑source example.
+This repository demonstrates an end‑to‑end workflow for analyzing voter sentiment data. It is an example of my work carried out at **Guide Post Strategic Partners** and **Advanced Insights**.  Our team at GPSP conducts partisan and non‑partisan polling for Senate campaigns, lobbyists, and city governments.  My role was to turn raw survey responses into actionable insights: cleaning data, applying demographic weights, building predictive models, and packaging the results for non‑technical stakeholders.  This project recreates that workflow in a self‑contained, open‑source example.
 
 ## Dataset
 
