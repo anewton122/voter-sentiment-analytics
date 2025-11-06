@@ -84,7 +84,7 @@ voter-sentiment-analytics/
 
 ## Professional Context
 
-At **GPSP**, our team of conducted partisan polling for political campaigns, including Senate races like the Reid Rasner campaign in Wyoming.  We were responsible for sending surveys into the field, weighting responses to match population demographics, building correlation matrices and tables, and delivering insights to campaign strategists.  After transitioning to **Advanced Insights**, we applied the same methodology to non‑partisan projects for lobbyists and municipal governments, such as gauging public sentiment on eminent domain in Iowa or assessing attitudes toward public transportation in San Antonio.
+At **GPSP**, our team of conducted partisan polling for political campaigns, including Senate races like the Reid Rasner campaign in Wyoming.  We were responsible for sending surveys into the field, weighting responses to match population demographics, building correlation matrices and tables, and delivering insights to campaign strategists.  After transitioning to **Advanced Insight Research Group**, we applied the same methodology to non‑partisan projects for lobbyists and municipal governments, such as gauging public sentiment on eminent domain in Iowa or assessing attitudes toward public transportation in San Antonio.
 
 This project demonstrates how to:
 
